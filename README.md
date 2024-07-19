@@ -12,7 +12,6 @@ A responsive landing page for Mamma Pizzeria, built with HTML, CSS, and JavaScri
 * Menu section with grid layout and hover effects 🍴
 * Services section with icons and text 📈
 * Contact section with social media links and address 📲
-* Dark mode toggle button 🌑
 * Scroll reveal animations for a smooth user experience 🎥
 
 ## Technologies Used 🛠️
