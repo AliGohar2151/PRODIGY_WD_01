@@ -32,14 +32,10 @@ A responsive landing page for Mamma Pizzeria, built with HTML, CSS, and JavaScri
 
 ## Credits 🙏
 
-* [Your Name] - Developer 👨‍💻
+* [Ali Gohar] - Developer 👨‍💻
 * [Unsplash](https://unsplash.com/) - Image credits 📸
 * [Boxicons](https://boxicons.com/) - Icon credits 📋
 * [Google Fonts](https://fonts.google.com/) - Font credits 📝
-
-## License 📜
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contributing 🤝
 
@@ -51,4 +47,4 @@ If you encounter any issues or bugs, please open an issue in this repository.
 
 ## Contact 📲
 
-If you have any questions or need help with this project, feel free to contact me at [Your Email].
+If you have any questions or need help with this project, feel free to contact me at [a.aligohar215168@gmail.com].
